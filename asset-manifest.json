@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-paint/static/css/main.29862245.css",
+    "main.js": "/my-paint/static/js/main.9662493b.js",
+    "index.html": "/my-paint/index.html",
+    "main.29862245.css.map": "/my-paint/static/css/main.29862245.css.map",
+    "main.9662493b.js.map": "/my-paint/static/js/main.9662493b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29862245.css",
+    "static/js/main.9662493b.js"
+  ]
+}
